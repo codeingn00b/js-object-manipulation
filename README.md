@@ -1,3 +1,15 @@
+<header>
+
+<!--
+  <<< Author notes: Course header >>>
+  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+  Add your open source license, GitHub uses MIT license.
+-->
+
+# My out put
+
+<code>
 [Running] node "c:\Users\ASUS Vivobook\OneDrive\桌面\317\sculptureScript.js"
 [
   {
@@ -85,5 +97,12 @@
     "alt": 92
   }
 ]
-
 [Done] exited with code=0 in 0.142 seconds
+  
+</code>
+  
+</header>
+
+![output](./images/output.png)
+
+
