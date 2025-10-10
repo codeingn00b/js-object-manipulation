@@ -103,6 +103,6 @@
   
 </header>
 
-![output](./images/output.png)
+![output](./images/image.png)
 
 
